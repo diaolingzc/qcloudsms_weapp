@@ -1,4 +1,4 @@
-# 腾讯云短信 wxapp demo
+# 腾讯云短信 weapp demo
 
 ## 腾讯短信服务
 
