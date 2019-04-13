@@ -1,5 +1,4 @@
 # 腾讯云短信 wxapp demo
-===
 
 ## 腾讯短信服务
 
@@ -79,6 +78,6 @@ const smsSign = "xxxx"
 
 ## 技术支持
 
-[腾讯云短信小助手](tencent://message/?uin=3012203387&Site=junichi&Menu=yes)
+[腾讯云短信小助手]("tencent://message/?uin=3012203387&Site=junichi&Menu=yes"): 3012203387
 
 
